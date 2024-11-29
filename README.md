@@ -98,4 +98,4 @@ Tableau Public Link is [here](https://public.tableau.com/app/profile/divyanshu.p
     - Stop the process by pressing CTRL + C inside the "screen" session. This terminates the running Flask App website server.
 
 # AWS Deployment Image
-[![AWS Deployment Image](https://github.com/Darshanesh-Patil/Supply-Chain-Management-System/blob/5f536877c8532cb1bd3903b375c3c3d50c7fc6ab/ml_model_deployment_on_aws_ec2/flask%20website.png)].
+[AWS Deployment Image](https://github.com/Darshanesh-Patil/Supply-Chain-Management-System/blob/5f536877c8532cb1bd3903b375c3c3d50c7fc6ab/ml_model_deployment_on_aws_ec2/flask%20website.png).
