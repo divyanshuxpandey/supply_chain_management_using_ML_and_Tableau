@@ -17,7 +17,7 @@ The Supply Chain Management System project encompasses the development and imple
 ![alt text](https://github.com/Darshanesh-Patil/Supply-Chain-Management-System/blob/2a1d7b8a2ea464ea7b6ab287ca03b603dca05ee5/Sales%20Dashboard%20(Tableau).png?raw=true)
 
 # Link
-Tableau Public Link is [here](https://public.tableau.com/views/SalesReport_16925513303360/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+Tableau Public Link is [here](https://public.tableau.com/app/profile/divyanshu.pandey8773/viz/SalesReport_17328827269120/Dashboard).
 
 # Deployment on AWS EC2
 
